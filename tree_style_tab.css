@@ -181,5 +181,5 @@ tab-item:not(.subtree-collapsed) .counter {
 
 
 :root.left tab-item-substance {
-	margin-left: calc(var(--tab-margin-left) + 2*var(--tab-indent));
+	margin-left: calc(var(--tab-margin-left) + 2.4*var(--tab-indent));
 }
