@@ -178,3 +178,8 @@ tab-item:not(.subtree-collapsed) .counter {
   min-width: none;
   width: auto;
 }
+
+
+:root.left tab-item-substance {
+	margin-left: calc(var(--tab-margin-left) + 2*var(--tab-indent));
+}
