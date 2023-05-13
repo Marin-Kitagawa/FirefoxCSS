@@ -15,7 +15,6 @@
 
 
 
-
 /* Hide border on tab bar, force its state to 'scroll', adjust margin-left for width of scrollbar. */
 #tabbar {
   border: 0;
@@ -182,4 +181,8 @@ tab-item:not(.subtree-collapsed) .counter {
 
 :root.left tab-item-substance {
 	margin-left: calc(var(--tab-margin-left) + 2.4*var(--tab-indent));
+}
+
+tab-item, tab-item-substance, span.extra-items-container.indent, #tabbar {
+  background-color: #2b2a33 !important;
 }
