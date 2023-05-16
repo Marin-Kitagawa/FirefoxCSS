@@ -13,3 +13,9 @@ Also, I use IBM Plex Sans (installed locally) for the tab labels. Using the belo
 ```css
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 ```
+
+The design will look like the image below. 
+Note: Profile picture is present. I didn't use CSS to hide the profile picture.
+
+
+![image](https://github.com/Marin-Kitagawa/FirefoxCSS/assets/49131888/8385aa2f-78cd-4a4a-823b-bd1ef334f37f)
