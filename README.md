@@ -5,4 +5,4 @@
 I have also modified the style for `nav-bar` to $-50.5$ px
 
 
-`Tree Style Tab` css is taken from config of `r/vdyn` via [pastebin_tree_style_tab.css](https://pastebin.com/raw/12gq6RGV)
+`Tree Style Tab` css is taken from config of `u/vdyn` via [pastebin_tree_style_tab.css](https://pastebin.com/raw/12gq6RGV)
