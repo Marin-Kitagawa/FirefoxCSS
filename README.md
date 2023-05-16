@@ -17,5 +17,8 @@ Also, I use IBM Plex Sans (installed locally) for the tab labels. Using the belo
 The design will look like the image below. 
 Note: Profile picture is present. I didn't use CSS to hide the profile picture.
 
-
+## On hover
 ![image](https://github.com/Marin-Kitagawa/FirefoxCSS/assets/49131888/8385aa2f-78cd-4a4a-823b-bd1ef334f37f)
+
+## When collapsed (mouse not on the sidebar)
+![image](https://github.com/Marin-Kitagawa/FirefoxCSS/assets/49131888/f69cc143-8719-4b78-9ac4-69c3e527f2e0)
